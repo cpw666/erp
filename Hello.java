@@ -6,5 +6,7 @@ public class Hello {
 		System.out.println("hehe3");
 		System.out.println("hehe3");
 		System.out.println("hehe3");
+		Admin admin = new Admin();
+		Emp emp = new Emp();
 	}
 }
