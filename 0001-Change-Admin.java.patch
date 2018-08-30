@@ -1,0 +1,23 @@
+From 0772d848e4d1305021a335bcd0f801451a1f200e Mon Sep 17 00:00:00 2001
+From: cpw <cpwei120@sina.com>
+Date: Thu, 30 Aug 2018 17:52:48 +0800
+Subject: [PATCH] Change Admin.java
+
+---
+ Admin.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Admin.java b/Admin.java
+index e22f085..bbe7e97 100644
+--- a/Admin.java
++++ b/Admin.java
+@@ -1,4 +1,4 @@
+ public class Admin {
+-	
++	patch
+ 	
+ }
+\ No newline at end of file
+-- 
+2.14.1.windows.1
+
