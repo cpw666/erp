@@ -9,6 +9,10 @@ public class Hello {
 		Emp emp = new Emp();
 		System.out.println();
 		Date date = new Date();
-
+System.out.println("hehe3");
+		Admin admin = new Admin();
+		Emp emp = new Emp();
+		System.out.println();
+		Date date = new Date();
 	}
 }
